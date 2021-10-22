@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="alamat">alamat</string>
+    <string name="email">email</string>
+    <string name="nomorhape">Nomor Hape</string>
+    <string name="namaSaya">Putri Laras Purbo Kencono</string>
+    <string name="nim">A11.2020.12753</string>
+    <string name="hobi">Membaca</string>
+    <string name="namaku">Moh Rifky Reinaldo</string>
+    <string name="nimku">A11.2020.12599</string>
+    <string name="hobiku">Main Game</string>
+</resources>
